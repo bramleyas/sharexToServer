@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <style>
+      @font-face {
+        src: url('https://www.dateanthony.com/script.ttf');
+        font-family: 'script';
+      }
+      @font-face {
+        src: url('https://www.dateanthony.com/font.ttf');
+        font-family: 'font';
+      }
+    </style>
+    <link href="https://www.dateanthony.com/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p class='medium'>media.dateanthony.com Directory</p>
+    <table>
+      <tr>
+        <td><p class='text'><b>File Name</b></p></td>
+        <td><p class='text'><b>File Size</b></p></td>
+        <td><p class='text'><b>Upload Time</b></p></td>
+      <tr style="display:flex;flex-direction:column;padding:4px;margin:0;">
+        <% files.map(file => { %><td><p class='text'><a href="https://media.dateanthony.com/<%- file %>"><%- file %></a></p></td><% }) %>
+        <!-- <% files.map(size => { %><td><p class='text'><a href="https://media.dateanthony.com/<%- size %>"><%- size %></a></p></td><% }) %> -->
+      </tr>
+    </table>
+  </body>
+</html>
