@@ -10,5 +10,9 @@ This repo is currently hooked up to a [Repl](https://replit.com/@bramley/media) 
 * Duplicate repl and remove contents of file_uploads
 * Have a jolly grand 'ol time relearning half this shit
 ## Changelog
+### *01/02/23*
+* Removed personal files
+* Migrated them to other domain
 ### *01/01/23*
-* Initial commit, delivered my diatribe in README.md
+* Initial commit
+* Delivered my diatribe in README.md
