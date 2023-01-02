@@ -1,6 +1,6 @@
 # ShareX2Server
 ### *Little Intro*
-ShareX2Server is a tiny (yet probably bloated, I don't need half the packages in here) server backend that allows a user to upload screenshots to their own server. Shout out to @DaInfLoop for the original project and @TRAPD3V for refreshing me on EJS after at least 2 years.
+ShareX2Server is a tiny (yet probably bloated, I don't need half the packages in here) server backend that allows a user to upload screenshots to their own server. Shout out to [Haroon](https://github.com/DaInfLoop) for the original project and [Avery](https://github.com/buddy-codes) for refreshing me on EJS after at least 2 years.
 ### *Setup*
 I'll get around to writing this sooner than later. In the meantime, you should be able to parse through most of this junk.
 ### *About that file_uploads folder...*
