@@ -3,7 +3,6 @@ const app = express();
 var bodyParser = require('body-parser')
 var fileUpload = require('express-fileupload');
 var cookieParser = require('cookie-parser');
-var emoji = require('node-emoji');
 const fs = require('fs');
 
 app.use(fileUpload({
