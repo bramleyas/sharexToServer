@@ -4,7 +4,7 @@ ShareX2Server is a tiny (yet probably bloated, I don't need half the packages in
 ### *Setup*
 I'll get around to writing this sooner than later. In the meantime, you should be able to parse through most of this junk.
 ### *About that file_uploads folder...*
-This repo is currently hooked up to a [Repl](https://replit.com/@bramley/media) on Replit that is currently acting as my personal server, which means that all uploads through it will be reflected here. These uploads will update every time I push unless I remember to disable it. If you're truly that curious with my personal uploads, you can [view the site here (media.dateanthony.com)](https://media.dateanthony.com/) that is hooked up to an external stylesheet. I really have my work cut out for me, huh?
+This repo is currently hooked up to a [Repl](https://replit.com/@bramley/media) on Replit that is acting as my personal server, which means that all uploads through it will be reflected here. These uploads will update every time I push unless I remember to disable it. If you're truly that curious with my personal uploads, you can [view the site here (media.dateanthony.com)](https://media.dateanthony.com/) that is hooked up to an external stylesheet. I really have my work cut out for me, huh?
 ### *Todo*
 * Make a standard stylesheet not attached to dateanthony
 * Duplicate repl and remove contents of file_uploads
